@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the apple is put on the center of the table, \nand there is a razor, a stapler, a spoon, a glasses, a razor scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the pizza is put on the center of the table, \nand there is a paperball, a nail clipper, a magnifying glass, a plate, a stapler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "razor",
-        "stapler",
-        "spoon",
-        "glasses",
-        "razor"
+        "paperball",
+        "nail clipper",
+        "magnifying glass",
+        "plate",
+        "stapler"
     ],
-    "target": "apple",
-    "instruction": "cut the apple"
+    "target": "pizza",
+    "instruction": "cut the pizza"
 }

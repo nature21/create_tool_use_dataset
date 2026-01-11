@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the shrimp is put on the center of the table, \nand there is a ladle, a shoe, a knife, a scissors, a knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the garlic is put on the center of the table, \nand there is a scissors, a knife, a hair dryer, a whisk, a pan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "ladle",
-        "shoe",
-        "knife",
         "scissors",
-        "knife"
+        "knife",
+        "hair dryer",
+        "whisk",
+        "pan"
     ],
-    "target": "shrimp",
-    "instruction": "peel the shrimp"
+    "target": "garlic",
+    "instruction": "peel the garlic"
 }

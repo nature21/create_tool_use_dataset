@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the orange is put on the center of the table, \nand there is a knife, a knife, a hanger, a spoon, a donut scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the potato is put on the center of the table, \nand there is a magnifying glass, a coin, a mallet, a comb, a screw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "knife",
-        "knife",
-        "hanger",
-        "spoon",
-        "donut"
+        "magnifying glass",
+        "coin",
+        "mallet",
+        "comb",
+        "screw"
     ],
-    "target": "orange",
-    "instruction": "peel the orange"
+    "target": "potato",
+    "instruction": "peel the potato"
 }

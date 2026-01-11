@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the pizza is put on the center of the table, \nand there is a keychain, a utility knife, a utility knife, a teapot, a paperball scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the cake is put on the center of the table, \nand there is a ruler, a clothespin, a flashlight, a floss container, a glass shard scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "keychain",
-        "utility knife",
-        "utility knife",
-        "teapot",
-        "paperball"
+        "ruler",
+        "clothespin",
+        "flashlight",
+        "floss container",
+        "glass shard"
     ],
-    "target": "pizza",
-    "instruction": "cut the pizza"
+    "target": "cake",
+    "instruction": "cut the cake"
 }

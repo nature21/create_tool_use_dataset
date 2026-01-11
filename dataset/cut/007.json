@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the pizza is put on the center of the table, \nand there is a scissors, a slipper, a scissors, a wallet, a hook scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the carrot is put on the center of the table, \nand there is a coffee pot, a pan, a grater, a axe, a bowl scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "scissors",
-        "slipper",
-        "scissors",
-        "wallet",
-        "hook"
+        "coffee pot",
+        "pan",
+        "grater",
+        "axe",
+        "bowl"
     ],
-    "target": "pizza",
-    "instruction": "cut the pizza"
+    "target": "carrot",
+    "instruction": "cut the carrot"
 }

@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the garlic is put on the center of the table, \nand there is a knife, a donut, a knife, a keychain, a glasses scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the onion is put on the center of the table, \nand there is a coin, a brush, a toothbrush, a scissors, a bowl scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "knife",
-        "donut",
-        "knife",
-        "keychain",
-        "glasses"
+        "coin",
+        "brush",
+        "toothbrush",
+        "scissors",
+        "bowl"
     ],
-    "target": "garlic",
-    "instruction": "peel the garlic"
+    "target": "onion",
+    "instruction": "peel the onion"
 }

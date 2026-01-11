@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the moth is put on the center of the table, \nand there is a peeler, a hammer, a utility knife, a drill, a hammer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the garlic clove is put on the center of the table, \nand there is a shovel, a glasses, a magnifying glass, a pliers, a mallet scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "peeler",
-        "hammer",
-        "utility knife",
-        "drill",
-        "hammer"
+        "shovel",
+        "glasses",
+        "magnifying glass",
+        "pliers",
+        "mallet"
     ],
-    "target": "moth",
-    "instruction": "pound the moth"
+    "target": "garlic clove",
+    "instruction": "pound the garlic clove"
 }
