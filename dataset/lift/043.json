@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the padlock is put on the center of the table, \nand there is a sock, a shoe, a plate, a nail clipper, a hanger scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "sock",
+        "shoe",
+        "plate",
+        "nail clipper",
+        "hanger"
+    ],
+    "target": "padlock",
+    "instruction": "lift the padlock"
+}

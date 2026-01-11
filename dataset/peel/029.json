@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the shrimp is put on the center of the table, \nand there is a hook, a spoon, a brush, a spatula, a watch scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "hook",
+        "spoon",
+        "brush",
+        "spatula",
+        "watch"
+    ],
+    "target": "shrimp",
+    "instruction": "peel the shrimp"
+}

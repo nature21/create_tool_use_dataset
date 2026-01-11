@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the onion is put on the center of the table, \nand there is a wallet, a saw, a soap bar, a spray bottle, a knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wallet",
+        "saw",
+        "soap bar",
+        "spray bottle",
+        "knife"
+    ],
+    "target": "onion",
+    "instruction": "peel the onion"
+}

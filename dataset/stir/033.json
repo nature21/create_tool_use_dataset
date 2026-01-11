@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the soup in the bowl is put on the center of the table, \nand there is a bowl, a pliers, a glasses, a ruler, a spatula scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "bowl",
+        "pliers",
+        "glasses",
+        "ruler",
+        "spatula"
+    ],
+    "target": "soup in the bowl",
+    "instruction": "stir the soup in the bowl"
+}

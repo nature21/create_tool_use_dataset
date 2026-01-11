@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the potato is put on the center of the table, \nand there is a rolling pin, a fork, a glassses, a broom, a hanger scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "rolling pin",
+        "fork",
+        "glassses",
+        "broom",
+        "hanger"
+    ],
+    "target": "potato",
+    "instruction": "peel the potato"
+}

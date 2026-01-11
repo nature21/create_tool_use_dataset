@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the bottle is put on the center of the table, \nand there is a remote control, a moth, a key, a wrench, a dustpan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "remote control",
+        "moth",
+        "key",
+        "wrench",
+        "dustpan"
+    ],
+    "target": "bottle",
+    "instruction": "open the bottle"
+}

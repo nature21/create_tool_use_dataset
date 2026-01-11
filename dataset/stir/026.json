@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the cocktail in the pot is put on the center of the table, \nand there is a clothespin, a broom, a strainer, a chopstick, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "clothespin",
+        "broom",
+        "strainer",
+        "chopstick",
+        "shovel"
+    ],
+    "target": "cocktail in the pot",
+    "instruction": "stir the cocktail in the pot"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the garlic is put on the center of the table, \nand there is a magnifying glass, a cup, a card, a shoe, a moth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "magnifying glass",
+        "cup",
+        "card",
+        "shoe",
+        "moth"
+    ],
+    "target": "garlic",
+    "instruction": "peel the garlic"
+}

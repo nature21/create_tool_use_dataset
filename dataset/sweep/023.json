@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the dust is put on the center of the table, \nand there is a mallet, a remote control, a dustpan, a pizza, a hair dryer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "mallet",
+        "remote control",
+        "dustpan",
+        "pizza",
+        "hair dryer"
+    ],
+    "target": "dust",
+    "instruction": "sweep the dust"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the ice cream in the pot is put on the center of the table, \nand there is a tape measure, a button, a corkscrew, a pencil, a bowl scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "tape measure",
+        "button",
+        "corkscrew",
+        "pencil",
+        "bowl"
+    ],
+    "target": "ice cream in the pot",
+    "instruction": "scoop the ice cream from the pot"
+}

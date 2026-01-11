@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the shopping bag is put on the center of the table, \nand there is a paintbrush, a hook, a pliers, a candle, a floss container scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "paintbrush",
+        "hook",
+        "pliers",
+        "candle",
+        "floss container"
+    ],
+    "target": "shopping bag",
+    "instruction": "lift the shopping bag"
+}

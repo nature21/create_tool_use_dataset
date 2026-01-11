@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the crumbs is put on the center of the table, \nand there is a screw, a broom, a brush, a newspaper, a pan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "screw",
+        "broom",
+        "brush",
+        "newspaper",
+        "pan"
+    ],
+    "target": "crumbs",
+    "instruction": "sweep the crumbs"
+}

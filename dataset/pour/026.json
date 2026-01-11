@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the bowl is put on the center of the table, \nand there is a paperball, a strainer, a coffee pot, a pencil, a scissors scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "paperball",
+        "strainer",
+        "coffee pot",
+        "pencil",
+        "scissors"
+    ],
+    "target": "bowl",
+    "instruction": "pour the juice into the bowl"
+}

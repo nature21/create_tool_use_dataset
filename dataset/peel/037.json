@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the hard-boiled egg is put on the center of the table, \nand there is a wrench, a book, a razor, a sponge, a scissors scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wrench",
+        "book",
+        "razor",
+        "sponge",
+        "scissors"
+    ],
+    "target": "hard-boiled egg",
+    "instruction": "peel the hard-boiled egg"
+}

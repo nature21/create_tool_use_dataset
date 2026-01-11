@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the ice cream in the cup is put on the center of the table, \nand there is a spatula, a hanger, a loofah, a shovel, a tweezers scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "spatula",
+        "hanger",
+        "loofah",
+        "shovel",
+        "tweezers"
+    ],
+    "target": "ice cream in the cup",
+    "instruction": "scoop the ice cream from the cup"
+}

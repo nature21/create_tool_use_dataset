@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the toast is put on the center of the table, \nand there is a cup, a glasses, a ruler, a grater, a peeler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "cup",
+        "glasses",
+        "ruler",
+        "grater",
+        "peeler"
+    ],
+    "target": "toast",
+    "instruction": "spread the cream cheese on the toast"
+}

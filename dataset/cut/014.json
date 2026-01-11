@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the banana is put on the center of the table, \nand there is a glass shard, a remote control, a nail clipper, a oven mitt, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "glass shard",
+        "remote control",
+        "nail clipper",
+        "oven mitt",
+        "shovel"
+    ],
+    "target": "banana",
+    "instruction": "cut the banana"
+}

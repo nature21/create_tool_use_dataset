@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the water in the bowl is put on the center of the table, \nand there is a wrench, a bowl, a oven mitt, a corkscrew, a ruler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wrench",
+        "bowl",
+        "oven mitt",
+        "corkscrew",
+        "ruler"
+    ],
+    "target": "water in the bowl",
+    "instruction": "scoop the water from the bowl"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the box is put on the center of the table, \nand there is a keychain, a scissors, a magnifying glass, a sponge, a axe scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "keychain",
+        "scissors",
+        "magnifying glass",
+        "sponge",
+        "axe"
+    ],
+    "target": "box",
+    "instruction": "open the box"
+}

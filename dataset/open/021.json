@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the can is put on the center of the table, \nand there is a broom, a fork, a slipper, a nail clipper, a bottle opener scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "broom",
+        "fork",
+        "slipper",
+        "nail clipper",
+        "bottle opener"
+    ],
+    "target": "can",
+    "instruction": "open the can"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the basket is put on the center of the table, \nand there is a rolling pin, a scissors, a knife, a loofah, a tongs scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "rolling pin",
+        "scissors",
+        "knife",
+        "loofah",
+        "tongs"
+    ],
+    "target": "basket",
+    "instruction": "lift the basket"
+}

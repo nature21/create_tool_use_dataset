@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the mug is put on the center of the table, \nand there is a calculator, a magnifying glass, a allen wrench, a moth, a clothespin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "calculator",
+        "magnifying glass",
+        "allen wrench",
+        "moth",
+        "clothespin"
+    ],
+    "target": "mug",
+    "instruction": "lift the mug"
+}

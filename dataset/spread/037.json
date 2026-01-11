@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the pizza dough is put on the center of the table, \nand there is a glasses, a hairbrush, a hanger, a drill, a spoon scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "glasses",
+        "hairbrush",
+        "hanger",
+        "drill",
+        "spoon"
+    ],
+    "target": "pizza dough",
+    "instruction": "spread the cream cheese on the pizza dough"
+}

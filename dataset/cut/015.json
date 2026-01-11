@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the banana is put on the center of the table, \nand there is a soap bar, a tape measure, a utility knife, a tongs, a plate scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "soap bar",
+        "tape measure",
+        "utility knife",
+        "tongs",
+        "plate"
+    ],
+    "target": "banana",
+    "instruction": "cut the banana"
+}

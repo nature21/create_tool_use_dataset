@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the sawdust is put on the center of the table, \nand there is a shoe, a oven mitt, a brush, a ladle, a corkscrew scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "shoe",
+        "oven mitt",
+        "brush",
+        "ladle",
+        "corkscrew"
+    ],
+    "target": "sawdust",
+    "instruction": "sweep the sawdust"
+}

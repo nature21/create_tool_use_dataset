@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the teapot is put on the center of the table, \nand there is a utility knife, a drill, a scissors, a screwdriver, a allen wrench scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "utility knife",
+        "drill",
+        "scissors",
+        "screwdriver",
+        "allen wrench"
+    ],
+    "target": "teapot",
+    "instruction": "lift the teapot"
+}

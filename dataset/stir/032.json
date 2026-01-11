@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the coffee in the bowl is put on the center of the table, \nand there is a knife, a hair dryer, a peeler, a teapot, a loofah scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "knife",
+        "hair dryer",
+        "peeler",
+        "teapot",
+        "loofah"
+    ],
+    "target": "coffee in the bowl",
+    "instruction": "stir the coffee in the bowl"
+}

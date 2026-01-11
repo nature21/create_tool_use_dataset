@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the ginger is put on the center of the table, \nand there is a spray bottle, a utility knife, a fork, a hammer, a watch scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "spray bottle",
+        "utility knife",
+        "fork",
+        "hammer",
+        "watch"
+    ],
+    "target": "ginger",
+    "instruction": "peel the ginger"
+}

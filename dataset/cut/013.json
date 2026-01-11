@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the apple is put on the center of the table, \nand there is a candle, a measuring cup, a hook, a glass shard, a sock scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "candle",
+        "measuring cup",
+        "hook",
+        "glass shard",
+        "sock"
+    ],
+    "target": "apple",
+    "instruction": "cut the apple"
+}

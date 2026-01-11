@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the nuts is put on the center of the table, \nand there is a axe, a coin, a envelope, a toothbrush, a mallet scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "axe",
+        "coin",
+        "envelope",
+        "toothbrush",
+        "mallet"
+    ],
+    "target": "nuts",
+    "instruction": "pound the nuts"
+}

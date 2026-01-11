@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the teapot is put on the center of the table, \nand there is a sponge, a spray bottle, a screw, a spatula, a hanger scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "sponge",
+        "spray bottle",
+        "screw",
+        "spatula",
+        "hanger"
+    ],
+    "target": "teapot",
+    "instruction": "lift the teapot"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the banana is put on the center of the table, \nand there is a apple, a mallet, a paintbrush, a saw, a nail clipper scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "apple",
+        "mallet",
+        "paintbrush",
+        "saw",
+        "nail clipper"
+    ],
+    "target": "banana",
+    "instruction": "cut the banana"
+}

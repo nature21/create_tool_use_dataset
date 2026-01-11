@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the tea in the bowl is put on the center of the table, \nand there is a wallet, a paperball, a hammer, a chopstick, a sponge scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wallet",
+        "paperball",
+        "hammer",
+        "chopstick",
+        "sponge"
+    ],
+    "target": "tea in the bowl",
+    "instruction": "stir the tea in the bowl"
+}

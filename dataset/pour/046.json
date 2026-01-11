@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the cup is put on the center of the table, \nand there is a cup, a saw, a toothbrush, a utility knife, a apple scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "cup",
+        "saw",
+        "toothbrush",
+        "utility knife",
+        "apple"
+    ],
+    "target": "cup",
+    "instruction": "pour the sand into the cup"
+}

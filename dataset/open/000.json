@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the box is put on the center of the table, \nand there is a teeth, a allen wrench, a glasses, a pliers, a floss container scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "teeth",
+        "allen wrench",
+        "glasses",
+        "pliers",
+        "floss container"
+    ],
+    "target": "box",
+    "instruction": "open the box"
+}

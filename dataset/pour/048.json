@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the bowl is put on the center of the table, \nand there is a ladle, a soap bar, a plate, a measuring cup, a drill scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "ladle",
+        "soap bar",
+        "plate",
+        "measuring cup",
+        "drill"
+    ],
+    "target": "bowl",
+    "instruction": "pour the milk into the bowl"
+}

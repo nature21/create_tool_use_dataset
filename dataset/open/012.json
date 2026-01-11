@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the walnut is put on the center of the table, \nand there is a shovel, a pizza, a rolling pin, a spoon, a soap bar scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "shovel",
+        "pizza",
+        "rolling pin",
+        "spoon",
+        "soap bar"
+    ],
+    "target": "walnut",
+    "instruction": "open the walnut"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the pot is put on the center of the table, \nand there is a spray bottle, a hat, a spoon, a mallet, a tape measure scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "spray bottle",
+        "hat",
+        "spoon",
+        "mallet",
+        "tape measure"
+    ],
+    "target": "pot",
+    "instruction": "pour the sand into the pot"
+}

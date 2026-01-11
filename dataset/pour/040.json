@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the pot is put on the center of the table, \nand there is a teapot, a perfume bottle, a toothbrush, a cup, a soap bar scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "teapot",
+        "perfume bottle",
+        "toothbrush",
+        "cup",
+        "soap bar"
+    ],
+    "target": "pot",
+    "instruction": "pour the batter into the pot"
+}

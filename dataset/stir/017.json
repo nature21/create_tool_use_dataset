@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the soup in the pot is put on the center of the table, \nand there is a remote control, a screwdriver, a button, a scissors, a flashlight scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "remote control",
+        "screwdriver",
+        "button",
+        "scissors",
+        "flashlight"
+    ],
+    "target": "soup in the pot",
+    "instruction": "stir the soup in the pot"
+}

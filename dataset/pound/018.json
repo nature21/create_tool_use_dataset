@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the moth is put on the center of the table, \nand there is a rolling pin, a ladle, a ruler, a strainer, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "rolling pin",
+        "ladle",
+        "ruler",
+        "strainer",
+        "shovel"
+    ],
+    "target": "moth",
+    "instruction": "pound the moth"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the dust is put on the center of the table, \nand there is a clothespin, a card, a envelope, a hat, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "clothespin",
+        "card",
+        "envelope",
+        "hat",
+        "shovel"
+    ],
+    "target": "dust",
+    "instruction": "sweep the dust"
+}

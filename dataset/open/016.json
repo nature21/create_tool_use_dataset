@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the coconut is put on the center of the table, \nand there is a nail clipper, a cup, a magnifying glass, a knife, a stapler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "nail clipper",
+        "cup",
+        "magnifying glass",
+        "knife",
+        "stapler"
+    ],
+    "target": "coconut",
+    "instruction": "open the coconut"
+}

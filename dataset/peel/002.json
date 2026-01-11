@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the orange is put on the center of the table, \nand there is a whisk, a hairbrush, a card, a plate, a candle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "whisk",
+        "hairbrush",
+        "card",
+        "plate",
+        "candle"
+    ],
+    "target": "orange",
+    "instruction": "peel the orange"
+}

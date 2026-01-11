@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the cake is put on the center of the table, \nand there is a tape measure, a hat, a whisk, a axe, a coffee pot scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "tape measure",
+        "hat",
+        "whisk",
+        "axe",
+        "coffee pot"
+    ],
+    "target": "cake",
+    "instruction": "cut the cake"
+}

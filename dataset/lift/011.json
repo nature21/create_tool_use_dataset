@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the bucket is put on the center of the table, \nand there is a hat, a saw, a allen wrench, a screwdriver, a paperball scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "hat",
+        "saw",
+        "allen wrench",
+        "screwdriver",
+        "paperball"
+    ],
+    "target": "bucket",
+    "instruction": "lift the bucket"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the flour in the cup is put on the center of the table, \nand there is a wallet, a spatula, a drill, a envelope, a keychain scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wallet",
+        "spatula",
+        "drill",
+        "envelope",
+        "keychain"
+    ],
+    "target": "flour in the cup",
+    "instruction": "scoop the flour from the cup"
+}

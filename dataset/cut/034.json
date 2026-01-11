@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the cucumber is put on the center of the table, \nand there is a keychain, a pan, a ladle, a remote control, a razor scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "keychain",
+        "pan",
+        "ladle",
+        "remote control",
+        "razor"
+    ],
+    "target": "cucumber",
+    "instruction": "cut the cucumber"
+}

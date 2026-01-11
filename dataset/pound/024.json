@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the garlic clove is put on the center of the table, \nand there is a strainer, a measuring cup, a donut, a mallet, a soap bar scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "strainer",
+        "measuring cup",
+        "donut",
+        "mallet",
+        "soap bar"
+    ],
+    "target": "garlic clove",
+    "instruction": "pound the garlic clove"
+}

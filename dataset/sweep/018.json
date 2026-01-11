@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the broken glass is put on the center of the table, \nand there is a book, a card, a nail clipper, a hat, a hand scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "book",
+        "card",
+        "nail clipper",
+        "hat",
+        "hand"
+    ],
+    "target": "broken glass",
+    "instruction": "sweep the broken glass"
+}

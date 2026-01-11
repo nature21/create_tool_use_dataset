@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the sause in the pot is put on the center of the table, \nand there is a pizza, a shoe, a drill, a floss container, a hand scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "pizza",
+        "shoe",
+        "drill",
+        "floss container",
+        "hand"
+    ],
+    "target": "sause in the pot",
+    "instruction": "scoop the sause from the pot"
+}

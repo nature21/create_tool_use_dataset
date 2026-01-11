@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the crushed peppercorns is put on the center of the table, \nand there is a axe, a mug, a wallet, a coffee pot, a hair dryer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "axe",
+        "mug",
+        "wallet",
+        "coffee pot",
+        "hair dryer"
+    ],
+    "target": "crushed peppercorns",
+    "instruction": "pound the crushed peppercorns"
+}

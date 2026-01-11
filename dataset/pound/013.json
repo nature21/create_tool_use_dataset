@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the crushed peppercorns is put on the center of the table, \nand there is a mallet, a sock, a soap bar, a broom, a ruler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "mallet",
+        "sock",
+        "soap bar",
+        "broom",
+        "ruler"
+    ],
+    "target": "crushed peppercorns",
+    "instruction": "pound the crushed peppercorns"
+}

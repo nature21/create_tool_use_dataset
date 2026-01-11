@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the water in the cup is put on the center of the table, \nand there is a knife, a hammer, a bowl, a envelope, a rolling pin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "knife",
+        "hammer",
+        "bowl",
+        "envelope",
+        "rolling pin"
+    ],
+    "target": "water in the cup",
+    "instruction": "scoop the water from the cup"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the batter in the bowl is put on the center of the table, \nand there is a fork, a card, a shovel, a spray bottle, a dustpan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "fork",
+        "card",
+        "shovel",
+        "spray bottle",
+        "dustpan"
+    ],
+    "target": "batter in the bowl",
+    "instruction": "stir the batter in the bowl"
+}

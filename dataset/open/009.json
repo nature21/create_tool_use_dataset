@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the walnut is put on the center of the table, \nand there is a screw, a button, a strainer, a spoon, a teeth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "screw",
+        "button",
+        "strainer",
+        "spoon",
+        "teeth"
+    ],
+    "target": "walnut",
+    "instruction": "open the walnut"
+}

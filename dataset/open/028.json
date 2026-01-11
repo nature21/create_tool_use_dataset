@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the clam is put on the center of the table, \nand there is a clothespin, a rock, a dustpan, a hairbrush, a bowl scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "clothespin",
+        "rock",
+        "dustpan",
+        "hairbrush",
+        "bowl"
+    ],
+    "target": "clam",
+    "instruction": "open the clam"
+}

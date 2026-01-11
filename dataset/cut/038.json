@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the apple is put on the center of the table, \nand there is a wallet, a saw, a calculator, a axe, a perfume bottle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "wallet",
+        "saw",
+        "calculator",
+        "axe",
+        "perfume bottle"
+    ],
+    "target": "apple",
+    "instruction": "cut the apple"
+}

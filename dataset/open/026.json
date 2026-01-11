@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the can is put on the center of the table, \nand there is a teapot, a comb, a donut, a fork, a teeth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "teapot",
+        "comb",
+        "donut",
+        "fork",
+        "teeth"
+    ],
+    "target": "can",
+    "instruction": "open the can"
+}

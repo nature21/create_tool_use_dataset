@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the paint in the bowl is put on the center of the table, \nand there is a knife, a fork, a book, a allen wrench, a remote control scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "knife",
+        "fork",
+        "book",
+        "allen wrench",
+        "remote control"
+    ],
+    "target": "paint in the bowl",
+    "instruction": "stir the paint in the bowl"
+}

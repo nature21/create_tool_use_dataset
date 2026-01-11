@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the coconut is put on the center of the table, \nand there is a dustpan, a flashlight, a pliers, a pan, a floss container scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "dustpan",
+        "flashlight",
+        "pliers",
+        "pan",
+        "floss container"
+    ],
+    "target": "coconut",
+    "instruction": "open the coconut"
+}

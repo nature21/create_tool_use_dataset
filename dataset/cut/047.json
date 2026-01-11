@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the pizza is put on the center of the table, \nand there is a scissors, a donut, a remote control, a moth, a coin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "scissors",
+        "donut",
+        "remote control",
+        "moth",
+        "coin"
+    ],
+    "target": "pizza",
+    "instruction": "cut the pizza"
+}

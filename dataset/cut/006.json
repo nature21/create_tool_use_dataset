@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the carrot is put on the center of the table, \nand there is a axe, a glasses, a whisk, a button, a soap bar scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "axe",
+        "glasses",
+        "whisk",
+        "button",
+        "soap bar"
+    ],
+    "target": "carrot",
+    "instruction": "cut the carrot"
+}

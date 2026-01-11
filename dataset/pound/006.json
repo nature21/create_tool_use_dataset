@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the nail is put on the center of the table, \nand there is a hat, a mallet, a fork, a screwdriver, a hairbrush scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "hat",
+        "mallet",
+        "fork",
+        "screwdriver",
+        "hairbrush"
+    ],
+    "target": "nail",
+    "instruction": "pound the nail"
+}

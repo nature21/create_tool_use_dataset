@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the dirt is put on the center of the table, \nand there is a tape measure, a spatula, a scissors, a rolling pin, a paintbrush scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "tape measure",
+        "spatula",
+        "scissors",
+        "rolling pin",
+        "paintbrush"
+    ],
+    "target": "dirt",
+    "instruction": "sweep the dirt"
+}

@@ -1,0 +1,12 @@
+{
+    "prompt": "Generate a table top scene, where the moth is put on the center of the table, \nand there is a knife, a oven mitt, a shoe, a grater, a donut scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "object_list": [
+        "knife",
+        "oven mitt",
+        "shoe",
+        "grater",
+        "donut"
+    ],
+    "target": "moth",
+    "instruction": "pound the moth"
+}
