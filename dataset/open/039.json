@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the clam is put on the center of the table, \nand there is a key, a hat, a pan, a toothbrush, a peeler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the clam is put on the center of the table, \nand there is a broom, a hat, a drill, a pliers, a hair dryer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "key",
+        "broom",
         "hat",
-        "pan",
-        "toothbrush",
-        "peeler"
+        "drill",
+        "pliers",
+        "hair dryer"
     ],
     "target": "clam",
     "instruction": "open the clam"

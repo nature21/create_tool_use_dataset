@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the teapot is put on the center of the table, \nand there is a envelope, a plate, a rolling pin, a ladle, a tongs scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the shopping bag is put on the center of the table, \nand there is a scissors, a spatula, a corkscrew, a pencil, a book scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "envelope",
-        "plate",
-        "rolling pin",
-        "ladle",
-        "tongs"
+        "scissors",
+        "spatula",
+        "corkscrew",
+        "pencil",
+        "book"
     ],
-    "target": "teapot",
-    "instruction": "lift the teapot"
+    "target": "shopping bag",
+    "instruction": "lift the shopping bag"
 }

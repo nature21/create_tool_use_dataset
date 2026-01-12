@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the crushed peppercorns is put on the center of the table, \nand there is a donut, a fork, a teapot, a pliers, a keychain scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the nail is put on the center of the table, \nand there is a slipper, a ruler, a stone, a comb, a allen wrench scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "donut",
-        "fork",
-        "teapot",
-        "pliers",
-        "keychain"
+        "slipper",
+        "ruler",
+        "stone",
+        "comb",
+        "allen wrench"
     ],
-    "target": "crushed peppercorns",
-    "instruction": "pound the crushed peppercorns"
+    "target": "nail",
+    "instruction": "pound the nail"
 }

@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the nuts is put on the center of the table, \nand there is a spray bottle, a wrench, a floss container, a loofah, a pliers scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the garlic clove is put on the center of the table, \nand there is a sock, a perfume bottle, a wrench, a ladle, a spatula scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "spray bottle",
+        "sock",
+        "perfume bottle",
         "wrench",
-        "floss container",
-        "loofah",
-        "pliers"
+        "ladle",
+        "spatula"
     ],
-    "target": "nuts",
-    "instruction": "pound the nuts"
+    "target": "garlic clove",
+    "instruction": "pound the garlic clove"
 }

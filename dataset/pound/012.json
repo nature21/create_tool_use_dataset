@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the moth is put on the center of the table, \nand there is a donut, a mug, a broom, a brush, a shoe scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a wrench, a donut, a candle, a plate, a perfume bottle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
+        "wrench",
         "donut",
-        "mug",
-        "broom",
-        "brush",
-        "shoe"
+        "candle",
+        "plate",
+        "perfume bottle"
     ],
-    "target": "moth",
-    "instruction": "pound the moth"
+    "target": "walnut",
+    "instruction": "pound the walnut"
 }

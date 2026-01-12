@@ -1,12 +1,12 @@
 {
-    "prompt": "\nGenerate a table top scene, where the moth is put on the center of the table, \nand there is a sponge, a loofah, a pan, a book, a saw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
+    "prompt": "\nGenerate a table top scene, where the button is put on the center of the table, \nand there is a bowl, a saw, a remote control, a fork, a mallet scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "sponge",
-        "loofah",
-        "pan",
-        "book",
-        "saw"
+        "bowl",
+        "saw",
+        "remote control",
+        "fork",
+        "mallet"
     ],
-    "target": "moth",
-    "instruction": "pound the moth"
+    "target": "button",
+    "instruction": "pound the button"
 }

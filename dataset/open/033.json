@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the can is put on the center of the table, \nand there is a pencil, a donut, a teeth, a hanger, a clothespin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the clam is put on the center of the table, \nand there is a dustpan, a spray bottle, a grater, a scissors, a floss container scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "pencil",
-        "donut",
-        "teeth",
-        "hanger",
-        "clothespin"
+        "dustpan",
+        "spray bottle",
+        "grater",
+        "scissors",
+        "floss container"
     ],
-    "target": "can",
-    "instruction": "open the can"
+    "target": "clam",
+    "instruction": "open the clam"
 }

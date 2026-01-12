@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the rice in the cup is put on the center of the table, \nand there is a spray bottle, a book, a cup, a peeler, a spoon scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the water in the pot is put on the center of the table, \nand there is a knife, a spray bottle, a hairbrush, a strainer, a ladle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
+        "knife",
         "spray bottle",
-        "book",
-        "cup",
-        "peeler",
-        "spoon"
+        "hairbrush",
+        "strainer",
+        "ladle"
     ],
-    "target": "rice in the cup",
-    "instruction": "scoop the rice from the cup"
+    "target": "water in the pot",
+    "instruction": "scoop the water from the pot"
 }

@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the sawdust is put on the center of the table, \nand there is a donut, a magnifying glass, a pan, a ruler, a level scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the crumbs is put on the center of the table, \nand there is a paintbrush, a hanger, a knife, a cup, a book scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "donut",
-        "magnifying glass",
-        "pan",
-        "ruler",
-        "level"
+        "paintbrush",
+        "hanger",
+        "knife",
+        "cup",
+        "book"
     ],
-    "target": "sawdust",
-    "instruction": "sweep the sawdust"
+    "target": "crumbs",
+    "instruction": "sweep the crumbs"
 }

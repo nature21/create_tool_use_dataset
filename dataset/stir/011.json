@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the batter in the pot is put on the center of the table, \nand there is a whisk, a glasses, a screwdriver, a scissors, a remote control scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the batter in the pot is put on the center of the table, \nand there is a paintbrush, a allen wrench, a pencil, a spoon, a belt scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "whisk",
-        "glasses",
-        "screwdriver",
-        "scissors",
-        "remote control"
+        "paintbrush",
+        "allen wrench",
+        "pencil",
+        "spoon",
+        "belt"
     ],
     "target": "batter in the pot",
     "instruction": "stir the batter in the pot"

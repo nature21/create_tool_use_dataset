@@ -1,12 +1,12 @@
 {
-    "prompt": "\nGenerate a table top scene, where the mug is put on the center of the table, \nand there is a soap bar, a loofah, a hairbrush, a stick, a paperball scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
+    "prompt": "\nGenerate a table top scene, where the bucket with handle is put on the center of the table, \nand there is a pencil, a coffee pot, a credit card, a peeler, a ruler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "soap bar",
-        "loofah",
-        "hairbrush",
-        "stick",
-        "paperball"
+        "pencil",
+        "coffee pot",
+        "credit card",
+        "peeler",
+        "ruler"
     ],
-    "target": "mug",
-    "instruction": "lift the mug"
+    "target": "bucket with handle",
+    "instruction": "lift the bucket with handle"
 }

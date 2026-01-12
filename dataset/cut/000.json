@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the cucumber is put on the center of the table, \nand there is a sock, a paperball, a scissors, a paintbrush, a moth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the apple is put on the center of the table, \nand there is a button, a spoon, a pliers, a credit card, a keychain scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "sock",
-        "paperball",
-        "scissors",
-        "paintbrush",
-        "moth"
+        "button",
+        "spoon",
+        "pliers",
+        "credit card",
+        "keychain"
     ],
-    "target": "cucumber",
-    "instruction": "cut the cucumber"
+    "target": "apple",
+    "instruction": "cut the apple"
 }

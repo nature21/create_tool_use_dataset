@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the sawdust is put on the center of the table, \nand there is a clothespin, a hammer, a dustpan, a hand, a rolling pin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the sawdust is put on the center of the table, \nand there is a screw, a hook, a cardboard, a allen wrench, a knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "clothespin",
-        "hammer",
-        "dustpan",
-        "hand",
-        "rolling pin"
+        "screw",
+        "hook",
+        "cardboard",
+        "allen wrench",
+        "knife"
     ],
     "target": "sawdust",
     "instruction": "sweep the sawdust"

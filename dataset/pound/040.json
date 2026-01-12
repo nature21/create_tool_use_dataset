@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the garlic clove is put on the center of the table, \nand there is a plate, a envelope, a coin, a rolling pin, a clothespin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the button is put on the center of the table, \nand there is a brush, a hook, a oven mitt, a hanger, a wrench scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "plate",
-        "envelope",
-        "coin",
-        "rolling pin",
-        "clothespin"
+        "brush",
+        "hook",
+        "oven mitt",
+        "hanger",
+        "wrench"
     ],
-    "target": "garlic clove",
-    "instruction": "pound the garlic clove"
+    "target": "button",
+    "instruction": "pound the button"
 }

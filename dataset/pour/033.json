@@ -1,12 +1,12 @@
 {
-    "prompt": "\nGenerate a table top scene, where the pot is put on the center of the table, \nand there is a magnifying glass, a pan, a ladle, a whisk, a hammer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
+    "prompt": "\nGenerate a table top scene, where the bowl is put on the center of the table, \nand there is a hanger, a comb, a cup, a envelope, a utility knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "magnifying glass",
-        "pan",
-        "ladle",
-        "whisk",
-        "hammer"
+        "hanger",
+        "comb",
+        "cup",
+        "envelope",
+        "utility knife"
     ],
-    "target": "pot",
-    "instruction": "pour the soup into the pot"
+    "target": "bowl",
+    "instruction": "pour the milk into the bowl"
 }

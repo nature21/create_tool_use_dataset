@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the bucket is put on the center of the table, \nand there is a cup, a measuring cup, a paintbrush, a pliers, a plate scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the bucket with handle is put on the center of the table, \nand there is a tongs, a dustpan, a cup, a broom, a candle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
+        "tongs",
+        "dustpan",
         "cup",
-        "measuring cup",
-        "paintbrush",
-        "pliers",
-        "plate"
+        "broom",
+        "candle"
     ],
-    "target": "bucket",
-    "instruction": "lift the bucket"
+    "target": "bucket with handle",
+    "instruction": "lift the bucket with handle"
 }

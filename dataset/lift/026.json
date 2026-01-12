@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the basket is put on the center of the table, \nand there is a moth, a level, a fork, a pizza, a belt scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the padlock is put on the center of the table, \nand there is a screw, a rolling pin, a sponge, a allen wrench, a remote control scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "moth",
-        "level",
-        "fork",
-        "pizza",
-        "belt"
+        "screw",
+        "rolling pin",
+        "sponge",
+        "allen wrench",
+        "remote control"
     ],
-    "target": "basket",
-    "instruction": "lift the basket"
+    "target": "padlock",
+    "instruction": "lift the padlock"
 }

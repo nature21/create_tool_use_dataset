@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the crumbs is put on the center of the table, \nand there is a screw, a broom, a brush, a newspaper, a pan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the crumbs is put on the center of the table, \nand there is a keychain, a measuring cup, a credit card, a coffee pot, a saw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "screw",
-        "broom",
-        "brush",
-        "newspaper",
-        "pan"
+        "keychain",
+        "measuring cup",
+        "credit card",
+        "coffee pot",
+        "saw"
     ],
     "target": "crumbs",
     "instruction": "sweep the crumbs"

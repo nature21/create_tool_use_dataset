@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the cake is put on the center of the table, \nand there is a tape measure, a mug, a hairbrush, a razor, a magnifying glass scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the cake is put on the center of the table, \nand there is a teapot, a belt, a paperball, a broom, a nail clipper scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "tape measure",
-        "mug",
-        "hairbrush",
-        "razor",
-        "magnifying glass"
+        "teapot",
+        "belt",
+        "paperball",
+        "broom",
+        "nail clipper"
     ],
     "target": "cake",
     "instruction": "cut the cake"

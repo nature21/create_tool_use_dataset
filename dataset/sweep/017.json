@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the dust is put on the center of the table, \nand there is a hairbrush, a paintbrush, a broom, a apple, a magnifying glass scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the dust is put on the center of the table, \nand there is a nail clipper, a pan, a ruler, a floss container, a spray bottle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "hairbrush",
-        "paintbrush",
-        "broom",
-        "apple",
-        "magnifying glass"
+        "nail clipper",
+        "pan",
+        "ruler",
+        "floss container",
+        "spray bottle"
     ],
     "target": "dust",
     "instruction": "sweep the dust"

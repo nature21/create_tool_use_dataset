@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the batter in the pot is put on the center of the table, \nand there is a grater, a comb, a spatula, a screwdriver, a strainer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the cocktail in the bowl is put on the center of the table, \nand there is a spoon, a tongs, a keychain, a book, a perfume bottle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "grater",
-        "comb",
-        "spatula",
-        "screwdriver",
-        "strainer"
+        "spoon",
+        "tongs",
+        "keychain",
+        "book",
+        "perfume bottle"
     ],
-    "target": "batter in the pot",
-    "instruction": "stir the batter in the pot"
+    "target": "cocktail in the bowl",
+    "instruction": "stir the cocktail in the bowl"
 }

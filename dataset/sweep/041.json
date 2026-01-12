@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the fallen leaves is put on the center of the table, \nand there is a teapot, a spray bottle, a strainer, a apple, a hand scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the sawdust is put on the center of the table, \nand there is a shoe, a razor, a level, a fork, a ladle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "teapot",
-        "spray bottle",
-        "strainer",
-        "apple",
-        "hand"
+        "shoe",
+        "razor",
+        "level",
+        "fork",
+        "ladle"
     ],
-    "target": "fallen leaves",
-    "instruction": "sweep the fallen leaves"
+    "target": "sawdust",
+    "instruction": "sweep the sawdust"
 }

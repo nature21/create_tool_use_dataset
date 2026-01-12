@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the nuts is put on the center of the table, \nand there is a hook, a mug, a drill, a spray bottle, a watch scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a pan, a keychain, a remote control, a belt, a level scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "hook",
-        "mug",
-        "drill",
-        "spray bottle",
-        "watch"
+        "pan",
+        "keychain",
+        "remote control",
+        "belt",
+        "level"
     ],
-    "target": "nuts",
-    "instruction": "pound the nuts"
+    "target": "walnut",
+    "instruction": "pound the walnut"
 }

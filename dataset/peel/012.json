@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the ginger is put on the center of the table, \nand there is a soap bar, a clothespin, a whisk, a pliers, a screw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the banana is put on the center of the table, \nand there is a magnifying glass, a utility knife, a screw, a toothbrush, a comb scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "soap bar",
-        "clothespin",
-        "whisk",
-        "pliers",
-        "screw"
+        "magnifying glass",
+        "utility knife",
+        "screw",
+        "toothbrush",
+        "comb"
     ],
-    "target": "ginger",
-    "instruction": "peel the ginger"
+    "target": "banana",
+    "instruction": "peel the banana"
 }

@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the nail is put on the center of the table, \nand there is a tweezers, a shovel, a hair dryer, a rolling pin, a strainer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the garlic clove is put on the center of the table, \nand there is a fork, a book, a remote control, a belt, a screw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "tweezers",
-        "shovel",
-        "hair dryer",
-        "rolling pin",
-        "strainer"
+        "fork",
+        "book",
+        "remote control",
+        "belt",
+        "screw"
     ],
-    "target": "nail",
-    "instruction": "pound the nail"
+    "target": "garlic clove",
+    "instruction": "pound the garlic clove"
 }

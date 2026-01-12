@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the garlic is put on the center of the table, \nand there is a magnifying glass, a cup, a card, a shoe, a moth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the garlic is put on the center of the table, \nand there is a slipper, a hairbrush, a spoon, a strainer, a cup scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "magnifying glass",
-        "cup",
-        "card",
-        "shoe",
-        "moth"
+        "slipper",
+        "hairbrush",
+        "spoon",
+        "strainer",
+        "cup"
     ],
     "target": "garlic",
     "instruction": "peel the garlic"

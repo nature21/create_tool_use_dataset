@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the soup in the bowl is put on the center of the table, \nand there is a spoon, a fork, a wrench, a oven mitt, a stapler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the coffee in the pot is put on the center of the table, \nand there is a pan, a tweezers, a corkscrew, a straw, a clothespin scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "spoon",
-        "fork",
-        "wrench",
-        "oven mitt",
-        "stapler"
+        "pan",
+        "tweezers",
+        "corkscrew",
+        "straw",
+        "clothespin"
     ],
-    "target": "soup in the bowl",
-    "instruction": "stir the soup in the bowl"
+    "target": "coffee in the pot",
+    "instruction": "stir the coffee in the pot"
 }

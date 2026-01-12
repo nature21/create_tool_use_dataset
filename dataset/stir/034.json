@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the batter in the pot is put on the center of the table, \nand there is a donut, a hair dryer, a belt, a rolling pin, a pencil scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the soup in the bowl is put on the center of the table, \nand there is a bowl, a soap bar, a hammer, a hairbrush, a spatula scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "donut",
-        "hair dryer",
-        "belt",
-        "rolling pin",
-        "pencil"
+        "bowl",
+        "soap bar",
+        "hammer",
+        "hairbrush",
+        "spatula"
     ],
-    "target": "batter in the pot",
-    "instruction": "stir the batter in the pot"
+    "target": "soup in the bowl",
+    "instruction": "stir the soup in the bowl"
 }

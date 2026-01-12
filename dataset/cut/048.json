@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the carrot is put on the center of the table, \nand there is a nail clipper, a teapot, a hair dryer, a coffee pot, a spray bottle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the carrot is put on the center of the table, \nand there is a shovel, a hat, a fork, a spatula, a toothbrush scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "nail clipper",
-        "teapot",
-        "hair dryer",
-        "coffee pot",
-        "spray bottle"
+        "shovel",
+        "hat",
+        "fork",
+        "spatula",
+        "toothbrush"
     ],
     "target": "carrot",
     "instruction": "cut the carrot"

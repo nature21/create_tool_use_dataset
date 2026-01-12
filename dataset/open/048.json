@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the bottle is put on the center of the table, \nand there is a hair dryer, a card, a shovel, a pliers, a corkscrew scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the unopened can is put on the center of the table, \nand there is a mug, a clothespin, a floss container, a credit card, a key scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "hair dryer",
-        "card",
-        "shovel",
-        "pliers",
-        "corkscrew"
+        "mug",
+        "clothespin",
+        "floss container",
+        "credit card",
+        "key"
     ],
-    "target": "bottle",
-    "instruction": "open the bottle"
+    "target": "unopened can",
+    "instruction": "open the unopened can"
 }

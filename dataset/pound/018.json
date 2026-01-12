@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the moth is put on the center of the table, \nand there is a rolling pin, a ladle, a ruler, a strainer, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the nail is put on the center of the table, \nand there is a corkscrew, a shoe, a envelope, a paperball, a belt scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "rolling pin",
-        "ladle",
-        "ruler",
-        "strainer",
-        "shovel"
+        "corkscrew",
+        "shoe",
+        "envelope",
+        "paperball",
+        "belt"
     ],
-    "target": "moth",
-    "instruction": "pound the moth"
+    "target": "nail",
+    "instruction": "pound the nail"
 }

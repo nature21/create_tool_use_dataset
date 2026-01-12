@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the shrimp is put on the center of the table, \nand there is a rolling pin, a whisk, a measuring cup, a tongs, a axe scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the ginger is put on the center of the table, \nand there is a coffee pot, a stapler, a credit card, a floss container, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "rolling pin",
-        "whisk",
-        "measuring cup",
-        "tongs",
-        "axe"
+        "coffee pot",
+        "stapler",
+        "credit card",
+        "floss container",
+        "shovel"
     ],
-    "target": "shrimp",
-    "instruction": "peel the shrimp"
+    "target": "ginger",
+    "instruction": "peel the ginger"
 }

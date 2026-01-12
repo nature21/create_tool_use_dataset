@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the paint in the pot is put on the center of the table, \nand there is a spray bottle, a chopstick, a utility knife, a belt, a paperball scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the coffee in the pot is put on the center of the table, \nand there is a calculator, a stapler, a spatula, a scissors, a wrench scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "spray bottle",
-        "chopstick",
-        "utility knife",
-        "belt",
-        "paperball"
+        "calculator",
+        "stapler",
+        "spatula",
+        "scissors",
+        "wrench"
     ],
-    "target": "paint in the pot",
-    "instruction": "stir the paint in the pot"
+    "target": "coffee in the pot",
+    "instruction": "stir the coffee in the pot"
 }

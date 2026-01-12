@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the toast is put on the center of the table, \nand there is a clothespin, a card, a tape measure, a watch, a corkscrew scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the pizza dough is put on the center of the table, \nand there is a nail clipper, a whisk, a fork, a ruler, a utility knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "clothespin",
-        "card",
-        "tape measure",
-        "watch",
-        "corkscrew"
+        "nail clipper",
+        "whisk",
+        "fork",
+        "ruler",
+        "utility knife"
     ],
-    "target": "toast",
-    "instruction": "spread the butter on the toast"
+    "target": "pizza dough",
+    "instruction": "spread the butter on the pizza dough"
 }

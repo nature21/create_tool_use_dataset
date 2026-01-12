@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the soup in the cup is put on the center of the table, \nand there is a tape measure, a hand, a peeler, a watch, a corkscrew scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the rice in the bowl is put on the center of the table, \nand there is a credit card, a paintbrush, a loofah, a broom, a utility knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "tape measure",
-        "hand",
-        "peeler",
-        "watch",
-        "corkscrew"
+        "credit card",
+        "paintbrush",
+        "loofah",
+        "broom",
+        "utility knife"
     ],
-    "target": "soup in the cup",
-    "instruction": "scoop the soup from the cup"
+    "target": "rice in the bowl",
+    "instruction": "scoop the rice from the bowl"
 }

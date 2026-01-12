@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the carrot is put on the center of the table, \nand there is a allen wrench, a peeler, a hair dryer, a mallet, a donut scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the banana is put on the center of the table, \nand there is a pencil, a credit card, a wallet, a hat, a screw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "allen wrench",
-        "peeler",
-        "hair dryer",
-        "mallet",
-        "donut"
+        "pencil",
+        "credit card",
+        "wallet",
+        "hat",
+        "screw"
     ],
-    "target": "carrot",
-    "instruction": "cut the carrot"
+    "target": "banana",
+    "instruction": "cut the banana"
 }

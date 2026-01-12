@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the broken glass is put on the center of the table, \nand there is a hand, a plate, a hairbrush, a shoe, a pencil scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the confetti is put on the center of the table, \nand there is a utility knife, a grater, a pan, a comb, a brush scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "hand",
-        "plate",
-        "hairbrush",
-        "shoe",
-        "pencil"
+        "utility knife",
+        "grater",
+        "pan",
+        "comb",
+        "brush"
     ],
-    "target": "broken glass",
-    "instruction": "sweep the broken glass"
+    "target": "confetti",
+    "instruction": "sweep the confetti"
 }

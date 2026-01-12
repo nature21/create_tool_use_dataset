@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the broken glass is put on the center of the table, \nand there is a sponge, a axe, a utility knife, a moth, a ruler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the broken glass is put on the center of the table, \nand there is a knife, a sock, a coffee pot, a whisk, a credit card scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "sponge",
-        "axe",
-        "utility knife",
-        "moth",
-        "ruler"
+        "knife",
+        "sock",
+        "coffee pot",
+        "whisk",
+        "credit card"
     ],
     "target": "broken glass",
     "instruction": "sweep the broken glass"

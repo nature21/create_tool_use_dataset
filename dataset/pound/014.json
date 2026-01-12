@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the nail is put on the center of the table, \nand there is a tape measure, a perfume bottle, a brick, a hammer, a drill scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the button is put on the center of the table, \nand there is a tweezers, a flashlight, a shovel, a grater, a candle scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "tape measure",
-        "perfume bottle",
-        "brick",
-        "hammer",
-        "drill"
+        "tweezers",
+        "flashlight",
+        "shovel",
+        "grater",
+        "candle"
     ],
-    "target": "nail",
-    "instruction": "pound the nail"
+    "target": "button",
+    "instruction": "pound the button"
 }

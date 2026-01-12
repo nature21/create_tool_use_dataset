@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the box is put on the center of the table, \nand there is a axe, a spoon, a level, a bowl, a knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the paper box is put on the center of the table, \nand there is a dustpan, a perfume bottle, a allen wrench, a teeth, a credit card scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "axe",
-        "spoon",
-        "level",
-        "bowl",
-        "knife"
+        "dustpan",
+        "perfume bottle",
+        "allen wrench",
+        "teeth",
+        "credit card"
     ],
-    "target": "box",
-    "instruction": "open the box"
+    "target": "paper box",
+    "instruction": "open the paper box"
 }

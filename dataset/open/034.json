@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the bottle is put on the center of the table, \nand there is a corkscrew, a knife, a donut, a glasses, a hat scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a sock, a rolling pin, a tongs, a card, a whisk scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "corkscrew",
-        "knife",
-        "donut",
-        "glasses",
-        "hat"
+        "sock",
+        "rolling pin",
+        "tongs",
+        "card",
+        "whisk"
     ],
-    "target": "bottle",
-    "instruction": "open the bottle"
+    "target": "walnut",
+    "instruction": "open the walnut"
 }

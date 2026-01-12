@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the cake is put on the center of the table, \nand there is a nail clipper, a drill, a dustpan, a envelope, a hanger scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the pizza is put on the center of the table, \nand there is a loofah, a shoe, a belt, a tape measure, a scissors scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "nail clipper",
-        "drill",
-        "dustpan",
-        "envelope",
-        "hanger"
+        "loofah",
+        "shoe",
+        "belt",
+        "tape measure",
+        "scissors"
     ],
-    "target": "cake",
-    "instruction": "cut the cake"
+    "target": "pizza",
+    "instruction": "cut the pizza"
 }

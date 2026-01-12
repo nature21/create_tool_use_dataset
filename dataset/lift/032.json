@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the shopping bag is put on the center of the table, \nand there is a tongs, a grater, a fork, a axe, a donut scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the mug is put on the center of the table, \nand there is a floss container, a tongs, a perfume bottle, a spoon, a dustpan scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
+        "floss container",
         "tongs",
-        "grater",
-        "fork",
-        "axe",
-        "donut"
+        "perfume bottle",
+        "spoon",
+        "dustpan"
     ],
-    "target": "shopping bag",
-    "instruction": "lift the shopping bag"
+    "target": "mug",
+    "instruction": "lift the mug"
 }

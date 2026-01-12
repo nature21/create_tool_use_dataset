@@ -1,11 +1,11 @@
 {
-    "prompt": "Generate a table top scene, where the cake is put on the center of the table, \nand there is a measuring cup, a card, a screwdriver, a pliers, a loofah scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the cake is put on the center of the table, \nand there is a strainer, a flashlight, a credit card, a spatula, a fork scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "measuring cup",
-        "card",
-        "screwdriver",
-        "pliers",
-        "loofah"
+        "strainer",
+        "flashlight",
+        "credit card",
+        "spatula",
+        "fork"
     ],
     "target": "cake",
     "instruction": "cut the cake"

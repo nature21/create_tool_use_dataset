@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the rice in the bowl is put on the center of the table, \nand there is a remote control, a moth, a hand, a whisk, a bowl scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the flour in the bowl is put on the center of the table, \nand there is a screw, a glasses, a pan, a floss container, a spoon scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "remote control",
-        "moth",
-        "hand",
-        "whisk",
-        "bowl"
+        "screw",
+        "glasses",
+        "pan",
+        "floss container",
+        "spoon"
     ],
-    "target": "rice in the bowl",
-    "instruction": "scoop the rice from the bowl"
+    "target": "flour in the bowl",
+    "instruction": "scoop the flour from the bowl"
 }

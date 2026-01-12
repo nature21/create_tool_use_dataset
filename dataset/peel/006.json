@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the onion is put on the center of the table, \nand there is a candle, a hammer, a axe, a teapot, a grater scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the potato is put on the center of the table, \nand there is a soap bar, a screwdriver, a mug, a grater, a cup scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "candle",
-        "hammer",
-        "axe",
-        "teapot",
-        "grater"
+        "soap bar",
+        "screwdriver",
+        "mug",
+        "grater",
+        "cup"
     ],
-    "target": "onion",
-    "instruction": "peel the onion"
+    "target": "potato",
+    "instruction": "peel the potato"
 }

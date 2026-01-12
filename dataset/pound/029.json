@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the crushed peppercorns is put on the center of the table, \nand there is a spray bottle, a wrench, a pan, a razor, a hook scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a fork, a pliers, a pencil, a bowl, a spoon scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "spray bottle",
-        "wrench",
-        "pan",
-        "razor",
-        "hook"
+        "fork",
+        "pliers",
+        "pencil",
+        "bowl",
+        "spoon"
     ],
-    "target": "crushed peppercorns",
-    "instruction": "pound the crushed peppercorns"
+    "target": "walnut",
+    "instruction": "pound the walnut"
 }

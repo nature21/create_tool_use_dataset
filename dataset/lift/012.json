@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the padlock is put on the center of the table, \nand there is a belt, a peeler, a spatula, a shovel, a moth scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the basket with handle is put on the center of the table, \nand there is a bowl, a stapler, a stick, a tape measure, a scissors scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "belt",
-        "peeler",
-        "spatula",
-        "shovel",
-        "moth"
+        "bowl",
+        "stapler",
+        "stick",
+        "tape measure",
+        "scissors"
     ],
-    "target": "padlock",
-    "instruction": "lift the padlock"
+    "target": "basket with handle",
+    "instruction": "lift the basket with handle"
 }

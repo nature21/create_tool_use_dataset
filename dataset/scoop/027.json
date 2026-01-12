@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the ice cream in the cup is put on the center of the table, \nand there is a grater, a measuring cup, a watch, a stapler, a hammer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the flour in the pot is put on the center of the table, \nand there is a brush, a pliers, a keychain, a bowl, a hair dryer scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "grater",
-        "measuring cup",
-        "watch",
-        "stapler",
-        "hammer"
+        "brush",
+        "pliers",
+        "keychain",
+        "bowl",
+        "hair dryer"
     ],
-    "target": "ice cream in the cup",
-    "instruction": "scoop the ice cream from the cup"
+    "target": "flour in the pot",
+    "instruction": "scoop the flour from the pot"
 }

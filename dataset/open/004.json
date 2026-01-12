@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the can is put on the center of the table, \nand there is a hammer, a toothbrush, a wrench, a screw, a comb scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a mug, a hammer, a saw, a plate, a watch scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
+        "mug",
         "hammer",
-        "toothbrush",
-        "wrench",
-        "screw",
-        "comb"
+        "saw",
+        "plate",
+        "watch"
     ],
-    "target": "can",
-    "instruction": "open the can"
+    "target": "walnut",
+    "instruction": "open the walnut"
 }

@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the sawdust is put on the center of the table, \nand there is a hanger, a paintbrush, a broom, a card, a spatula scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the confetti is put on the center of the table, \nand there is a brush, a level, a screw, a watch, a razor scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "hanger",
-        "paintbrush",
-        "broom",
-        "card",
-        "spatula"
+        "brush",
+        "level",
+        "screw",
+        "watch",
+        "razor"
     ],
-    "target": "sawdust",
-    "instruction": "sweep the sawdust"
+    "target": "confetti",
+    "instruction": "sweep the confetti"
 }

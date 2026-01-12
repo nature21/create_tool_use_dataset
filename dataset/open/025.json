@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the bottle is put on the center of the table, \nand there is a nail clipper, a spray bottle, a coffee pot, a spoon, a button scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the walnut is put on the center of the table, \nand there is a hammer, a floss container, a drill, a plate, a saw scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "nail clipper",
-        "spray bottle",
-        "coffee pot",
-        "spoon",
-        "button"
+        "hammer",
+        "floss container",
+        "drill",
+        "plate",
+        "saw"
     ],
-    "target": "bottle",
-    "instruction": "open the bottle"
+    "target": "walnut",
+    "instruction": "open the walnut"
 }

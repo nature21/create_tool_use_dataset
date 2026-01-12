@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the pizza dough is put on the center of the table, \nand there is a moth, a knife, a floss container, a teapot, a shovel scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the pizza dough is put on the center of the table, \nand there is a drill, a slipper, a spray bottle, a spatula, a envelope scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "moth",
-        "knife",
-        "floss container",
-        "teapot",
-        "shovel"
+        "drill",
+        "slipper",
+        "spray bottle",
+        "spatula",
+        "envelope"
     ],
     "target": "pizza dough",
-    "instruction": "spread the jam on the pizza dough"
+    "instruction": "spread the frosting on the pizza dough"
 }

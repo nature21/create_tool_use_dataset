@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the walnut is put on the center of the table, \nand there is a brush, a bottle opener, a razor, a paperball, a hook scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the paper box is put on the center of the table, \nand there is a shoe, a soap bar, a wallet, a axe, a keychain scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "brush",
-        "bottle opener",
-        "razor",
-        "paperball",
-        "hook"
+        "shoe",
+        "soap bar",
+        "wallet",
+        "axe",
+        "keychain"
     ],
-    "target": "walnut",
-    "instruction": "open the walnut"
+    "target": "paper box",
+    "instruction": "open the paper box"
 }

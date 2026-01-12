@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the padlock is put on the center of the table, \nand there is a donut, a toothbrush, a hook, a loofah, a utility knife scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the bucket with handle is put on the center of the table, \nand there is a envelope, a spray bottle, a toothbrush, a scissors, a pencil scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "donut",
+        "envelope",
+        "spray bottle",
         "toothbrush",
-        "hook",
-        "loofah",
-        "utility knife"
+        "scissors",
+        "pencil"
     ],
-    "target": "padlock",
-    "instruction": "lift the padlock"
+    "target": "bucket with handle",
+    "instruction": "lift the bucket with handle"
 }

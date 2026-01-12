@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the toast is put on the center of the table, \nand there is a watch, a moth, a spoon, a hook, a coffee pot scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the toast is put on the center of the table, \nand there is a shoe, a coin, a mug, a credit card, a ruler scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "watch",
-        "moth",
-        "spoon",
-        "hook",
-        "coffee pot"
+        "shoe",
+        "coin",
+        "mug",
+        "credit card",
+        "ruler"
     ],
     "target": "toast",
-    "instruction": "spread the jam on the toast"
+    "instruction": "spread the frosting on the toast"
 }

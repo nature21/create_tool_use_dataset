@@ -1,12 +1,12 @@
 {
-    "prompt": "Generate a table top scene, where the sawdust is put on the center of the table, \nand there is a peeler, a shovel, a hanger, a card, a comb scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.",
+    "prompt": "\nGenerate a table top scene, where the dirt is put on the center of the table, \nand there is a brush, a teapot, a bowl, a keychain, a soap bar scattered on the table.\nMake sure all the objects are inside the camera frame completely, i.e., the entire object is visible, and the relative size of the objects are realistic.\n",
     "object_list": [
-        "peeler",
-        "shovel",
-        "hanger",
-        "card",
-        "comb"
+        "brush",
+        "teapot",
+        "bowl",
+        "keychain",
+        "soap bar"
     ],
-    "target": "sawdust",
-    "instruction": "sweep the sawdust"
+    "target": "dirt",
+    "instruction": "sweep the dirt"
 }
